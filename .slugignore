@@ -13,3 +13,5 @@ __pycache__/
 
 # Exclude development-specific files
 .env
+
+*.ipynb
