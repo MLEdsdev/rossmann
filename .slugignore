@@ -1,0 +1,15 @@
+# Exclude Git metadata
+.git
+.gitignore
+
+# Exclude tests, docs, and local configuration
+tests/
+docs/
+*.md
+
+# Exclude caches and build artifacts
+__pycache__/
+*.pyc
+
+# Exclude development-specific files
+.env
